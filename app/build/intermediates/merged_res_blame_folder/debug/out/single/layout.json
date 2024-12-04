@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-mergeDebugResources-45:\\layout\\item_pending_admin_container.xml",
+        "source": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-main-48:\\layout\\item_pending_admin_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-mergeDebugResources-45:\\layout\\item_processing_customer_container.xml",
+        "source": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-main-48:\\layout\\item_processing_customer_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-mergeDebugResources-45:\\layout\\item_container_size.xml",
+        "source": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-main-48:\\layout\\item_container_size.xml"
+    },
+    {
+        "merged": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-mergeDebugResources-45:\\layout\\item_processing_admin_container.xml",
+        "source": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-main-48:\\layout\\item_processing_admin_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-mergeDebugResources-45:\\layout\\activity_order_history.xml",
+        "source": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-main-48:\\layout\\activity_order_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-mergeDebugResources-45:\\layout\\item_peding_customer_container.xml",
+        "source": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-main-48:\\layout\\item_peding_customer_container.xml"
+    },
+    {
+        "merged": "com.example.shoesstore.app-mergeDebugResources-45:/layout/activity_review.xml",
+        "source": "com.example.shoesstore.app-main-48:/layout/activity_review.xml"
+    },
+    {
+        "merged": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-mergeDebugResources-45:\\layout\\activity_list_product.xml",
+        "source": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-main-48:\\layout\\activity_list_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-mergeDebugResources-45:\\layout\\activity_send_otpactivity.xml",
+        "source": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-main-48:\\layout\\activity_send_otpactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-mergeDebugResources-45:\\layout\\activity_cart.xml",
+        "source": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-main-48:\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-mergeDebugResources-45:\\layout\\item_container_cart.xml",
+        "source": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-main-48:\\layout\\item_container_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-mergeDebugResources-45:\\layout\\activity_create_category.xml",
+        "source": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-main-48:\\layout\\activity_create_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-mergeDebugResources-45:\\layout\\activity_review.xml",
+        "source": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-main-48:\\layout\\activity_review.xml"
+    },
+    {
+        "merged": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-mergeDebugResources-45:\\layout\\slide_item_container.xml",
+        "source": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-main-48:\\layout\\slide_item_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-mergeDebugResources-45:\\layout\\activity_sign_in.xml",
+        "source": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-main-48:\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-mergeDebugResources-45:\\layout\\viewholder_pop_list.xml",
+        "source": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-main-48:\\layout\\viewholder_pop_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-mergeDebugResources-45:\\layout\\activity_checkout.xml",
+        "source": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-main-48:\\layout\\activity_checkout.xml"
+    },
+    {
+        "merged": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-mergeDebugResources-45:\\layout\\activity_change_password.xml",
+        "source": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-main-48:\\layout\\activity_change_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-mergeDebugResources-45:\\layout\\activity_sign_up.xml",
+        "source": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-main-48:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-mergeDebugResources-45:\\layout\\activity_profile.xml",
+        "source": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-main-48:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-mergeDebugResources-45:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-main-48:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-mergeDebugResources-45:\\layout\\item_container_product.xml",
+        "source": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-main-48:\\layout\\item_container_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-mergeDebugResources-45:\\layout\\activity_list_product_main.xml",
+        "source": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-main-48:\\layout\\activity_list_product_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-mergeDebugResources-45:\\layout\\fragment_completed.xml",
+        "source": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-main-48:\\layout\\fragment_completed.xml"
+    },
+    {
+        "merged": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-mergeDebugResources-45:\\layout\\activity_edit_product.xml",
+        "source": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-main-48:\\layout\\activity_edit_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-mergeDebugResources-45:\\layout\\viewholder_category.xml",
+        "source": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-main-48:\\layout\\viewholder_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-mergeDebugResources-45:\\layout\\fragment_processing.xml",
+        "source": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-main-48:\\layout\\fragment_processing.xml"
+    },
+    {
+        "merged": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-mergeDebugResources-45:\\layout\\fragment_pending.xml",
+        "source": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-main-48:\\layout\\fragment_pending.xml"
+    },
+    {
+        "merged": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-mergeDebugResources-45:\\layout\\item_container_category.xml",
+        "source": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-main-48:\\layout\\item_container_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-mergeDebugResources-45:\\layout\\activity_create_product.xml",
+        "source": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-main-48:\\layout\\activity_create_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-mergeDebugResources-45:\\layout\\activity_verify_otpactivity.xml",
+        "source": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-main-48:\\layout\\activity_verify_otpactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-mergeDebugResources-45:\\layout\\activity_detail_product.xml",
+        "source": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-main-48:\\layout\\activity_detail_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-mergeDebugResources-45:\\layout\\item_completed_container.xml",
+        "source": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-main-48:\\layout\\item_completed_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-mergeDebugResources-45:\\layout\\activity_list_category.xml",
+        "source": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-main-48:\\layout\\activity_list_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-mergeDebugResources-45:\\layout\\activity_dashboard.xml",
+        "source": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-main-48:\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-mergeDebugResources-45:\\layout\\item_coupon.xml",
+        "source": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-main-48:\\layout\\item_coupon.xml"
+    },
+    {
+        "merged": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-mergeDebugResources-45:\\layout\\activity_list_coupon.xml",
+        "source": "C:\\Users\\keeke\\.gradle\\daemon\\8.2\\com.example.shoesstore.app-main-48:\\layout\\activity_list_coupon.xml"
+    }
+]

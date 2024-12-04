@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#F44336</color>
+    <color name="black">#FF000000</color>
+    <color name="color_edittext">#14000000</color>
+    <color name="darkGray">#616161</color>
+    <color name="dark_grey">#ff424242</color>
+    <color name="dark_toolbar">#43000000</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="end_color">#FF4081</color>
+    <color name="error">#B00020</color>
+    <color name="gray">#d2d2d2</color>
+    <color name="green">#008000</color>
+    <color name="grey">#3BFFFFFF</color>
+    <color name="icon_background">#20FFFFFF</color>
+    <color name="input_background">#ECECEC</color>
+    <color name="lavender">#5C65DD</color>
+    <color name="lightGray">#EFEFEF</color>
+    <color name="priramy">#1C2E46</color>
+    <color name="priramy_dark">#142232</color>
+    <color name="priramy_text">#212121</color>
+    <color name="received_message_background">#090D16</color>
+    <color name="secondary_text">#757575</color>
+    <color name="start_color">#7C4DFF</color>
+    <color name="transparent">#0D000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white2">#F5F5F5</color>
+    <string name="History">Orders</string>
+    <string name="add_image">Add Image</string>
+    <string name="address">Address</string>
+    <string name="app_name">Shoes Store</string>
+    <string name="apply">Apply</string>
+    <string name="back">Back</string>
+    <string name="category_image">Category Image</string>
+    <string name="category_name">Name</string>
+    <string name="change_password">Change Password</string>
+    <string name="check_out">Check Out</string>
+    <string name="confirm_new_password">Confirm New Password</string>
+    <string name="confirm_password">Confirm PassWord</string>
+    <string name="content">We will send you an OTP on this email</string>
+    <string name="create_category">Create Category</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="create_product">Create Product</string>
+    <string name="delivery">Delivery</string>
+    <string name="didn_t_receive_the_otp">Didn\'t receive the OTP?</string>
+    <string name="email">Email</string>
+    <string name="enter_address">Enter Address</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_the_otp_sent_to">Enter the OTP sent to</string>
+    <string name="enter_your_coupon">Enter Your Coupon</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="gcm_defaultSenderId" translatable="false">684299996311</string>
+    <string name="get_otp">GET OTP</string>
+    <string name="google_api_key" translatable="false">AIzaSyDg8Bu_FTY6lsDAXOs7koWEFSC5Rv3V3u8</string>
+    <string name="google_app_id" translatable="false">1:684299996311:android:e5f926fb869435453cedd2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDg8Bu_FTY6lsDAXOs7koWEFSC5Rv3V3u8</string>
+    <string name="google_storage_bucket" translatable="false">shoes-store-77fc8.appspot.com</string>
+    <string name="list_category">Category</string>
+    <string name="list_product">Product</string>
+    <string name="login_to_continue">Login to continue</string>
+    <string name="mail_here">Email: </string>
+    <string name="my_cart">My Cart</string>
+    <string name="name">Name</string>
+    <string name="new_password">New Password</string>
+    <string name="online">Online</string>
+    <string name="otp_input_4">input</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="password">Password</string>
+    <string name="project_id" translatable="false">shoes-store-77fc8</string>
+    <string name="resend_otp">RESEND OTP</string>
+    <string name="select_image">Select Image</string>
+    <string name="select_user">Select User</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="submit">Submit</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="title_activity_review">ReviewActivity</string>
+    <string name="toggle_password_visibility">toggle pass</string>
+    <string name="total">Total</string>
+    <string name="total_tax">Total Tax</string>
+    <string name="type_a_message">Type a message</string>
+    <string name="verify">Verify</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="your_mail">abc@gmail.com</string>
+    <style name="Base.Theme.ShoesStore" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/lavender</item>
+        <item name="colorPrimaryVariant">@color/lavender</item>
+    </style>
+    <style name="Theme.ShoesStore" parent="Base.Theme.ShoesStore"/>
+</resources>

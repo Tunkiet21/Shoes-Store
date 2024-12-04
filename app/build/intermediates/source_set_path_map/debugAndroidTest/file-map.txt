@@ -1,0 +1,6 @@
+com.example.shoesstore.test.app-annotation-experimental-1.3.0-0 C:\Users\keeke\.gradle\caches\transforms-3\8d1eba55d45ac8e8e5a3e8779ba39940\transformed\annotation-experimental-1.3.0\res
+com.example.shoesstore.test.app-core-1.5.0-1 C:\Users\keeke\.gradle\caches\transforms-3\cf8e7193fa53f4303f5b1670e9886a7f\transformed\core-1.5.0\res
+com.example.shoesstore.test.app-androidTest-2 D:\DA_PM\Shoes_Store-main\Shoes_Store-main\app\build\generated\res\resValues\androidTest\debug
+com.example.shoesstore.test.app-mergeDebugAndroidTestResources-3 D:\DA_PM\Shoes_Store-main\Shoes_Store-main\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.shoesstore.test.app-mergeDebugAndroidTestResources-4 D:\DA_PM\Shoes_Store-main\Shoes_Store-main\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.shoesstore.test.app-merged_res-5 D:\DA_PM\Shoes_Store-main\Shoes_Store-main\app\build\intermediates\merged_res\debugAndroidTest
